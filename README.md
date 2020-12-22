@@ -1,4 +1,4 @@
-# Front-end-HTML-CSS3-Interactive
+# Front-end HTML & CSS3 Interactive
 
 Front-end Pilot Designs
 
